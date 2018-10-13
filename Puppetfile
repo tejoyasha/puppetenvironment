@@ -5,8 +5,8 @@ forge "https://forgeapi.puppetlabs.com"
 
 mod 'puppetlabs-stdlib'
 
-#mod 'puppetlabs-ntp',
-#  :git => 'git://github.com/puppetlabs/puppetlabs-ntp.git'
+mod 'puppetlabs-ntp',
+  :git => 'git://github.com/puppetlabs/puppetlabs-ntp.git'
 
 mod 'puppettestrepo',
   :git => 'https://github.com/tejoyasha/puppettestrepo.git',
