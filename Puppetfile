@@ -15,3 +15,9 @@ mod 'puppettestrepo',
 #mod 'puppetlabs-apt',
 #  :git => 'https://github.com/puppetlabs/puppetlabs-apt.git',
 #  :ref => '1.4.x'
+#
+
+mod 'puppetlabs-apache'
+mod 'puppetlabs-mysql'
+mod 'mayflower-php'
+mod 'puppetlabs-concat'
