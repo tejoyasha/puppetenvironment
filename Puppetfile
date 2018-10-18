@@ -15,3 +15,7 @@ mod 'puppettestrepo',
 mod 'puppetlabs-apt',
   :git => 'https://github.com/puppetlabs/puppetlabs-apt.git',
   :ref => '1.4.x'
+
+mod 'apache',
+  :git => 'https://github.com/tejoyasha/apache.git',
+  :branch => 'master'
