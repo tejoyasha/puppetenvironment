@@ -1,3 +1,3 @@
 node /agent/ {
-  include apache
+  include puppettestrepo
 }
